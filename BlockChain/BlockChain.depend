@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1511989566 source:c:\users\dhaslam\documents\github\sideproject-blockchain\blockchain\main.cpp
+	<iostream>
+	"Block.h"
+	"BlockChain.h"
+
+1511988982 source:c:\users\dhaslam\documents\github\sideproject-blockchain\blockchain\src\block.cpp
+	"Block.h"
+	"sha256.h"
+
+1511988834 c:\users\dhaslam\documents\github\sideproject-blockchain\blockchain\include\block.h
+	<iostream>
+
+1511989566 c:\users\dhaslam\documents\github\sideproject-blockchain\blockchain\include\blockchain.h
+	"Block.h"
+	<vector>
+
+1511989566 source:c:\users\dhaslam\documents\github\sideproject-blockchain\blockchain\src\blockchain.cpp
+	"BlockChain.h"
+	"Block.h"
+	"sha256.h"
+	<time.h>
+	<stdio.h>
+	<sstream>
+	<iostream>
+
+1511988664 source:c:\users\dhaslam\documents\github\sideproject-blockchain\blockchain\src\sha256.cpp
+	<cstring>
+	<fstream>
+	"sha256.h"
+
+1511988667 c:\users\dhaslam\documents\github\sideproject-blockchain\blockchain\include\sha256.h
+	<string>
+
